@@ -1,2 +1,4 @@
 # FreeMote.Samples
-Samples for FreeMote feature tests.
+PSB samples for FreeMote feature tests.
+
+Collected by Ulysses
